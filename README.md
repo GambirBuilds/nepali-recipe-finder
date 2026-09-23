@@ -71,7 +71,7 @@ npm -v
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/nepali-recipe-finder.git
+git clone https://github.com/GambirBuilds/nepali-recipe-finder.git
 cd nepali-recipe-finder
 ```
 
@@ -92,45 +92,32 @@ http://localhost:3000
 
 ---
 
-## 📦 Available Scripts
-
-In the project directory, you can run:
-
-- `npm run dev`: Starts the local Vite development server on port 3000.
-- `npm run build`: Compiles and bundles the application for production into `dist/`.
-- `npm run preview`: Locally previews the production build.
-- `npm run lint`: Validates TypeScript types across the codebase without emitting files.
-
----
-
 ## 📂 Project Structure
 
 ```text
 nepali-recipe-finder/
-├── index.html                   # HTML entry point with Google Fonts & metadata
-├── package.json                 # Project dependencies & scripts
-├── tsconfig.json                # TypeScript compiler configuration
+├── index.html                   
+├── package.json                 
+├── tsconfig.json                
 ├── vite.config.ts               # Vite configuration with Tailwind CSS v4 plugin
-├── public/                      # Static assets
+├── public/                      
 └── src/
-    ├── main.tsx                 # React DOM mount point
-    ├── App.tsx                  # Root state, view router & filter controller
-    ├── index.css                # Tailwind directives & typography layers
+    ├── main.tsx                
+    ├── App.tsx                 
+    ├── index.css               
     ├── types.ts                 # TypeScript interfaces (Recipe, Ingredient, FilterCategory)
     ├── assets/
     │   └── images/              # High-definition food photography assets
     ├── components/
-    │   ├── Header.tsx           # Sticky navigation header with logo & saved badge
-    │   ├── Hero.tsx             # Curved navy hero banner with search & quick pills
-    │   ├── RecipeCard.tsx       # Recipe card with origin tag, badge, and save toggle
-    │   ├── RecipeDetail.tsx     # 2-column recipe details, ingredients & video link
-    │   ├── SavedShelf.tsx       # "Saved for later" personal recipe shelf
+    │   ├── Header.tsx           
+    │   ├── Hero.tsx             
+    │   ├── RecipeCard.tsx
+    │   ├── RecipeDetail.ts
+    │   ├── SavedShelf.tsx
     │   └── Footer.tsx           # Devanagari signature footer
     └── data/
         └── recipes.ts           # Complete database of Nepali & global dishes
 
 ---
 
-<p align="center">
-  <b>घरको स्वाद जहिले पनि</b> • <i>Made for everyday cooking, wherever your kitchen is.</i>
-</p>
+
