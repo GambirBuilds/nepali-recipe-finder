@@ -1,19 +1,31 @@
-🍲 Nepali Recipe Finder (घरको स्वाद)
+##🍲 Nepali Recipe Finder (घरको स्वाद)
 "Everyday food, the Nepali way. Find the dishes that taste like home — from a basket of momos to the next recipe you cannot wait to try."
 Nepali Recipe Finder is a curated culinary discovery web application that celebrates authentic Nepali cuisine alongside global kitchen classics. Designed with warm editorial typography, high-definition photography, and an intuitive user interface, this platform allows home cooks to explore, prepare, and bookmark recipes from the Himalayan foothills to the international table.
-✨ Features
+
+##✨ Features
 🇳🇵 Authentic Nepali Heritage Dishes
+
 Dal Bhat Tarkari (दाल भात तरकारी): The iconic everyday staple complete with dal, tarkari, saag greens, achar, and papad.
+
 Momo (म:म:): Authentic steamed dumplings pleated and served with homemade tomato sesame achar.
+
 Chicken Choila (चिकेन छोइला): Smoky char-grilled chicken tossed in fenugreek-tempered mustard oil and served with chiura.
+
 Sel Roti (सेल रोटी): The festive golden ring-shaped sweet rice bread.
+
 Gundruk Sandheko (गुन्द्रुक साधेको): Traditional fermented green leafy salad tossed with roasted soybeans (bhatmas).
+
 Aloo Tama Bodi (आलु तामा बोडी): Sour and savory bamboo shoot, black-eyed pea, and potato stew.
+
 Chatamari (चटामरी): The celebrated Newari rice crepe topped with minced meat and egg.
+
 Kathmandu Street & Cafe Classics: Keema Noodles, Chowmein, Yak Cheese Balls, Spiced Milk Tea (Chiya), Chilled Beer, and traditional Hukka blends.
-🌍 Global Table Classics
+
+##🌍 Global Table Classics
 Curated international recipes including Beef Rendang, Pad Thai, Sushi, Tandoori Chicken, Thai Green & Red Curries, Spaghetti Bolognese, Lasagne, Crispy Falafel, Shakshuka, Lamb Rogan Josh, and Beef Stroganoff.
-🔍 Smart Search & Categorized Filtering
+
+##🔍 Smart Search & Categorized Filtering
+
 Interactive Search: Instant matching across dish names, Devanagari titles, ingredients, and flavor descriptions.
 Quick-Query Pills: One-click tags for favorites (Dal bhat tarkari, Momo, Chowmein, Keema noodles).
 Multi-faceted Tabs:
