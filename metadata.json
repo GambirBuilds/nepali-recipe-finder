@@ -1,0 +1,7 @@
+{
+  "name": "Nepali Recipe Finder",
+  "description": "Everyday food, the Nepali way. Discover authentic Nepali classics and global table recipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
