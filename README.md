@@ -119,11 +119,5 @@ nepali-recipe-finder/
         └── recipes.ts           # Complete database of Nepali & global dishes
 
 ---
-## screenshots
 
-<img width="1898" height="908" alt="image" src="https://github.com/user-attachments/assets/bf4a89e8-0650-415d-a085-918a857d73f3" />
-
-<img width="1900" height="913" alt="image" src="https://github.com/user-attachments/assets/f90a5d84-1580-4aa5-bf2f-15767b4b7375" />
-
-<img width="1896" height="920" alt="image" src="https://github.com/user-attachments/assets/223978ee-086b-4f55-978a-ec73e8939090" />
 
